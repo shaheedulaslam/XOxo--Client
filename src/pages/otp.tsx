@@ -8,12 +8,6 @@ import { MuiOtpInput } from 'mui-one-time-password-input'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-
-
-
-
-
-
 const inter = Inter({ subsets: ['latin'] })
 
 
